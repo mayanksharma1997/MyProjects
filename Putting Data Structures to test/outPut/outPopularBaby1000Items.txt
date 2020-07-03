@@ -1,0 +1,20 @@
+The trie took this many nano-seconds to search ->116800 and returned false for Mike
+There are 5844 comparisons needed to insert into the trie
+There are 2 comparisons needed to search for the word 
+
+The HashTable took this many nano-seconds to search ->7200 and returned -1 forMike
+The hashtable took this many comparisons to search: 1
+The hashtable took this many comparisons to insert: 1249
+
+The BST took this many nano-seconds to search ->29600 and returned false for Mike
+There were this many comparisons to insert in the BST ---->183306
+There were this many comparisons in the BST ----> 268
+
+AVL Tree doesn't contain the data 'Mike'.
+Search operation took 33800 nanoSeconds.
+Search operation did 30 comparisons.
+
+Red Black BST doesn't contain the data 'Mike'.
+Search operation took 11900 nanoSeconds.
+Search operation did 37 comparisons.
+

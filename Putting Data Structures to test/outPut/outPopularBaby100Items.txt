@@ -1,0 +1,20 @@
+The trie took this many nano-seconds to search ->58000 and returned true for GERALDINE
+There are 600 comparisons needed to insert into the trie
+There are 9 comparisons needed to search for the word 
+
+The HashTable took this many nano-seconds to search ->4900 and returned 1 forGERALDINE
+The hashtable took this many comparisons to search: 2
+The hashtable took this many comparisons to insert: 100
+
+The BST took this many nano-seconds to search ->700 and returned true for GERALDINE
+There were this many comparisons to insert in the BST ---->9900
+There were this many comparisons in the BST ----> 2
+
+AVL Tree contains the data 'GERALDINE'.
+Search operation took 26900 nanoSeconds.
+Search operation did 21 comparisons.
+
+Red Black BST contains the data 'GERALDINE'.
+Search operation took 9900 nanoSeconds.
+Search operation did 21 comparisons.
+

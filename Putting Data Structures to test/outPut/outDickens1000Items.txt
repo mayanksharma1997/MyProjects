@@ -1,0 +1,20 @@
+The trie took this many nano-seconds to search ->159600 and returned true for door
+There are 4755 comparisons needed to insert into the trie
+There are 4 comparisons needed to search for the word 
+
+The HashTable took this many nano-seconds to search ->7300 and returned 1 fordoor
+The hashtable took this many comparisons to search: 2
+The hashtable took this many comparisons to insert: 1489
+
+The BST took this many nano-seconds to search ->4700 and returned true for door
+There were this many comparisons to insert in the BST ---->18340
+There were this many comparisons in the BST ----> 28
+
+AVL Tree contains the data 'door'.
+Search operation took 40500 nanoSeconds.
+Search operation did 30 comparisons.
+
+Red Black BST contains the data 'door'.
+Search operation took 13300 nanoSeconds.
+Search operation did 33 comparisons.
+

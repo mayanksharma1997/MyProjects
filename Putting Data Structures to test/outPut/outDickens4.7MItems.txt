@@ -1,0 +1,20 @@
+The trie took this many nano-seconds to search ->164700 and returned true for sunshine
+There are 2927986 comparisons needed to insert into the trie
+There are 8 comparisons needed to search for the word 
+
+The HashTable took this many nano-seconds to search ->1800 and returned 1 forsunshine
+The hashtable took this many comparisons to search: 2
+The hashtable took this many comparisons to insert: 1407349
+
+The BST took this many nano-seconds to search ->7500 and returned true for sunshine
+There were this many comparisons to insert in the BST ---->17590634
+There were this many comparisons in the BST ----> 44
+
+AVL Tree contains the data 'sunshine'.
+Search operation took 16500 nanoSeconds.
+Search operation did 45 comparisons.
+
+Red Black BST contains the data 'sunshine'.
+Search operation took 12500 nanoSeconds.
+Search operation did 45 comparisons.
+
